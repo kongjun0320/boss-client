@@ -5,6 +5,8 @@ import Login from './containers/login/Login'
 import Register from './containers/register/Register'
 import Main from './containers/main/Main'
 
+import './test/socketio_test'
+
 import {Provider} from 'react-redux'
 import store from './redux/store'
 
